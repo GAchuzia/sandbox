@@ -1,2 +1,2 @@
 # sandbox
-A repository where I test out new concepts, tools, and technologies.
+Varying side projects I've created to test different tools and learn new concepts.
